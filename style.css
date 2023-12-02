@@ -1,0 +1,21 @@
+html {text-align: center; background-color: black;}
+a {color: white;}
+img {height: 200px; width: 200px;}
+
+#rosso{color: red;}
+#iso-rosso{color:#FF4D4D;}
+
+
+#blu{color: blue;}
+#iso-blu{color: #70BDE8;}
+
+#arancione{color: orange;}
+#iso-arancione{color: #FFA64D;}
+
+#verde{color: green;}
+#iso-verde{color: #7FD76B;}
+
+#giallo{color: yellow;}
+#iso-giallo{color: #FFFF4D;}
+.overalltext {color: white;}
+h2 {font-weight: normal;}
